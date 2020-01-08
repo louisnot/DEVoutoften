@@ -162,19 +162,19 @@ export default class ProfileScreen extends React.Component{
     }else{
         const { photo } = this.state
         return(
-            <View style={{flex:1,alignContent:'center',justifyContent:'center'}}>
+            <View style={{flex:1,alignItems:'center',justifyContent:'center'}}>
                 {photo && (
                     <React.Fragment>
                         <Image
                         source={{ uri: photo.uri }}
-                        style={{ width: 300, height: 300 }}
+                        style={styles.card}
                         />
                         <Button title="Upload" onPress={this.handleUploadPhoto} />
                     </React.Fragment>
                 )}
                 <Button title="Choose Photo" onPress={this.handleChoosePhoto} />
                 <TouchableOpacity onPress={()=>this.setState({editProfile:0})}>
-                    <Text>Done</Text>
+                    <Text style={{color:'#1CAFD3'}}>Return to your profile </Text>
                 </TouchableOpacity>
             </View>
         )
@@ -193,42 +193,13 @@ const styles= StyleSheet.create({
         width: SCREEN_WIDTH/4,
         height:40,
         borderRadius:20
-    }
+    },
+    card : {
+        height:SCREEN_HEIGHT-300,
+        width:SCREEN_WIDTH-40,
+        borderRadius : 20,
+        paddingBottom:25,
+
+    },
 
 })
-
-
-/*
-
-<React.Fragment>
-                        <Image
-                            source={this.state.dataPhoto}
-                            style={{ width: SCREEN_WIDTH - 20, height: SCREEN_HEIGHT-300, borderRadius: 20, }}
-                        />
-                            <Button title='Upload image' onPress={this.handleUploadPhoto}/>
-                        </React.Fragment> 
-
-    // REVOIR L'HANDLE
-    handleChoosePhoto = () =>{
-        const options = {
-            title : 'Select profile pic',
-            noData : true,
-        };
-        ImagePicker.showImagePicker(options,response => {
-            if (response.didCancel) {
-                alert('User cancelled image picker');
-              }
-            if(response.uri){
-                    this.setState({dataPhoto: response});
-                    this.setState({test : 1})
-                
-            }
-            else if (response.error) {
-                console.log('ImagePicker Error: ', response.error);
-            } 
-            
-        })
-    }
-
-
-                        */

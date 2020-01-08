@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/louisnot/DEVzerototen/ios/Pods/Target\ Support\ Files/React-RCTBlob/React-RCTBlob-dummy.m \
-  /Users/louisnot/DEVzerototen/ios/Pods/Target\ Support\ Files/React-RCTBlob/React-RCTBlob-prefix.pch
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Target\ Support\ Files/React-RCTBlob/React-RCTBlob-dummy.m \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Target\ Support\ Files/React-RCTBlob/React-RCTBlob-prefix.pch

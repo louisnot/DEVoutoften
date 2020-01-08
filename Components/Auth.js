@@ -41,11 +41,3 @@ export default class Auth extends React.Component {
     );
   }
 }
-
-const styles = {
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems:'center'
-  }
-};

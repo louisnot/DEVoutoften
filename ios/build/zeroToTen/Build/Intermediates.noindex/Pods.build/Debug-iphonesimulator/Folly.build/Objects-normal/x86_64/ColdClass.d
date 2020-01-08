@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/lang/ColdClass.cpp \
-  /Users/louisnot/DEVzerototen/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/lang/ColdClass.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/CppAttributes.h
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/lang/ColdClass.cpp \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/CppAttributes.h

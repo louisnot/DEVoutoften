@@ -1,29 +1,29 @@
 dependencies: \
-  /Users/louisnot/DEVzerototen/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
-  /Users/louisnot/DEVzerototen/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
-  /Users/louisnot/DEVzerototen/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/Optional.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/Portability.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/portability/Config.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/CPortability.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/Traits.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/Utility.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/lang/Exception.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Folly/folly/CppAttributes.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
-  /Users/louisnot/DEVzerototen/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/Optional.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/Portability.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/CPortability.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/Traits.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/Utility.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

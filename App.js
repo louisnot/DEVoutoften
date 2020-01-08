@@ -21,7 +21,7 @@ import {
 import Navigator from './Navigation/Navigation';
 import Auth from './Components/Auth';
 import HomeScreen from './screens/HomeScreen';
-
+import ProfileScreen from './screens/ProfileScreen'
 
 export default class App extends React.Component{
   constructor(props){
@@ -53,6 +53,7 @@ export default class App extends React.Component{
         </View>
       );
     }
+
       else if(!this.state.jwt){
       return(
         <Auth newJWT={this.newJWT}

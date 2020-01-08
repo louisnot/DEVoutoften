@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/louisnot/DEVzerototen/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
-  /Users/louisnot/DEVzerototen/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
-  /Users/louisnot/DEVzerototen/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/louisnot/DEV.ZEROTOTEN/DEVoutoften/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
